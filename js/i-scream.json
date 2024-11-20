@@ -29,4 +29,13 @@
       "ingredients": ["strawberry puree", "banana", "almond milk", "chia seeds"],
       "image": "strawberry-sprinkle.svg"
     },
+    {
+      "name": "Cotton Candy",
+      "calories": 280,
+      "type": "sorbet",
+      "ingredients": ["cotton candy syrup", "lemon zest", "agave nectar", "mint leaves"],
+      "image": "ice-cream-xtra1.svg"
+    }
+  ]
+}
     
